@@ -1,7 +1,7 @@
 # Renett Massamba | Graduate Portfolio
 
 Welcome to my portfolio!  
-This repository contains a curated selection of my academic, consulting, and data projects, focusing on business analysis, finance, and evidence-based decision-making.
+This repository displays a curated selection of my academic, consulting, and data projects, focusing on business analysis, finance, and evidence-based decision-making.
 
 ## 📂 Contents
 
